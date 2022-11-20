@@ -25,12 +25,24 @@
                 Email Address 
                 <input type="text">
                  Reason for contact
-                 <label for="Reason for contact">Choose Options
-                    <select name="color">
-                        <option value="red">Red</option>
-                        <option value="purple">Purple </option>
+                 <label for="Reason for contact">
+                    <select name="option">
+                        <option value="Saying hi">Saying hi</option>
+                        <option value="Looking for contractor"> Looking for contractor </option>
+                        <option value="Interested in an interview"> Interested in an interview</option>
                         </select>
                  </label>
+                 <html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <form action="/form/submit" action="post"> 
+      <textarea name="comment" rows="12" cols="35">Send your comments to the author.</textarea><br>
+      <input type="submit" name="submitInfo" value="Submit">
+    </form>
+  </body>
+</html>
             
             <button>Submit</button>
         </form>
