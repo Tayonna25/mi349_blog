@@ -30,7 +30,7 @@ broder-top: 1px dotted #ccc
 
 }
 
-burnout {
+.burnout {
 border-bottom: 1px dotted #ccc;
 
 }
@@ -40,7 +40,7 @@ a[time] {
     font-size: 1px ;
 }
 
-trippy{
+.trippy{
 font-size: 1em;
 
 }
