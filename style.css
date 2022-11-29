@@ -16,7 +16,7 @@ margin: 0;
 
 
 h2 { 
-    font-size: 3em;
+    font-size: 1em;
     margin: 0;
 }
 
@@ -24,17 +24,17 @@ p{
     line-height: 1.4em;
 }
 
-#blog{
+#real {
 
 broder-top: 1px dotted #ccc
 
 }
 
-blog-post {
+burnout {
 border-bottom: 1px dotted #ccc;
 
 }
 
-a[title] {
-    
+a[title] { 
+    font-family: 'Courier New', Courier, monospace;
 }
