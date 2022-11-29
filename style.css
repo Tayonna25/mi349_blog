@@ -35,7 +35,12 @@ border-bottom: 1px dotted #ccc;
 
 }
 
-a[title] { 
+a[time] { 
     font-family: 'Courier New', Courier, monospace;
     font-size: 1px ;
+}
+
+trippy{
+font-size: 1em;
+
 }
