@@ -14,6 +14,12 @@ font-size: 3em;
 margin: 0;
 }
 
+
+h2 { 
+    font-size: 3em;
+    margin: 0;
+}
+
 p{
     line-height: 1.4em;
 }
@@ -27,4 +33,8 @@ broder-top: 1px dotted #ccc
 blog-post {
 border-bottom: 1px dotted #ccc;
 
+}
+
+a[title] {
+    
 }
