@@ -37,4 +37,5 @@ border-bottom: 1px dotted #ccc;
 
 a[title] { 
     font-family: 'Courier New', Courier, monospace;
+    font-size: 1px ;
 }
