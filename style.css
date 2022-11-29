@@ -30,7 +30,7 @@ broder-top: 1px dotted #ccc
 
 }
 
-.burnout {
+div.burnout {
 border-bottom: 1px dotted #ccc;
 font-size: medium;
 }
