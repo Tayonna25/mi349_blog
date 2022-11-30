@@ -77,6 +77,10 @@ article {
     margin: 20px;
 }
 
+article img {
+    float: left;
+}
+
 article:nth-last-of-type(1) {
     flex: 1;
 
