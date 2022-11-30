@@ -56,3 +56,9 @@ a[time] {
 font-size: 1em;
 
 }
+
+.sticky {
+    background: pink;
+    position: sticky;
+    top: 0;
+}
