@@ -59,6 +59,6 @@ font-size: 1em;
 
 .sticky {
     background: pink;
-    position: sticky;
+    position: -webkit-sticky; 
     top: 0;
 }
