@@ -94,7 +94,7 @@ article:nth-last-of-type(3) {
     flex: 1;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
     .sticky {
         background: purple;
     }
